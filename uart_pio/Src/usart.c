@@ -148,6 +148,5 @@ __attribute__((weak)) int _write(int file, char *ptr, int len)
 }
 
 /* USER CODE END 1 */
-/* USER CODE END 1 */
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
